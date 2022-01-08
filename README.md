@@ -1,2 +1,2 @@
 # SCA 
-Design de um [Sistema de Controle Acadêmico](SAC.pdf)
+Design de um [Sistema de Controle Acadêmico](SCA.pdf)
